@@ -2,7 +2,7 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-  background: red;
+  background: blue;
   align-items: center;
   flex-direction: column;
   justify-content: center;
@@ -11,8 +11,9 @@
 .headline {
   margin: 0;
   padding: 0;
-  color: blue;
-  font-size: 4rem;
+  color: red;
+  font-size: 2rem;
   text-align: center;
   font-style: italic;
+  text-decoration: underline;
 }
